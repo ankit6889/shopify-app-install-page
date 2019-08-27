@@ -239,7 +239,7 @@ iframe {
   background: #fff;
   border-radius: 10px;
   position: relative;
-  padding: 62px 110px 33px 110px;
+  padding: 62px 110px 54px 110px;
 }
 
 
@@ -579,4 +579,34 @@ custom css*/
 
 .wrap-login100:hover {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+
+/*------------------------------------------------------------------
+custom css for login page only*/
+
+.p-b-53 {
+  padding-bottom: 53px;
+}
+
+.username100 {
+  padding-top: 31px;
+  padding-bottom: 9px;
+}
+
+.password100 {
+  padding-top: 13px;
+  padding-bottom: 9px;
+}
+
+.forgot100 {
+  margin-left: 5px;
+}
+
+.m-t-17 {
+  margin-top: 17px;
+}
+
+.p-t-55 {
+  padding-top: 55px;
 }
